@@ -3,7 +3,7 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 from setuptools import setup, find_packages
 
 setup(name='thematch',
-		version='0.1',
+		version='1.0',
 		description='thematch',
 		url='https://github.com/ExpertOfAI/thematch',
 		author='ExpertOfAI',
@@ -22,4 +22,3 @@ python setup.py sdist
 delete tar.gz from dist folder
 twine upload dist/*
 <Enter API token , created from pypi account "create api token">
-pypi-AgEIcHlwaS5vcmcCJGZhNTE3YmU2LThhMTUtNDJhYS05OGFlLTUzNWFiYWU1NjA0ZAACKlszLCJiN2ZkNTM4Ny00YTAzLTQwZWYtYTdhZS1lMjBhOWI2OTRlN2IiXQAABiCr6KN-xjOaaKHPt2DPCP6s4bOucOuilII3Qq81EqP5wA
