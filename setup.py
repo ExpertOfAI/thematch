@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
-setup(name='thematch_2.1',
-		version='2.1',
-		description='thematch_2.1',
+setup(name='thematch_cpu',
+		version='1.0',
+		description='thematch_cpu',
 		url='https://github.com/ExpertOfAI/thematch',
 		author='ExpertOfAI1',
 		license='MIT',
