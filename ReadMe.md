@@ -2,11 +2,11 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
 from setuptools import setup, find_packages
 
-setup(name='thematch',
-		version='1.0',
-		description='thematch',
+setup(name='thematch_2.1',
+		version='2.1',
+		description='thematch_2.1',
 		url='https://github.com/ExpertOfAI/thematch',
-		author='ExpertOfAI',
+		author='ExpertOfAI1',
 		license='MIT',
 		packages=find_packages(),
 		classifiers=[

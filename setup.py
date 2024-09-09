@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
-setup(name='thematch',
-		version='0.2',
-		description='thematch',
+setup(name='thematch_2.1',
+		version='2.1',
+		description='thematch_2.1',
 		url='https://github.com/ExpertOfAI/thematch',
-		author='ExpertOfAI',
+		author='ExpertOfAI1',
 		license='MIT',
 		packages=find_packages(),
 		classifiers=[
