@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='thematch_cpu',
-		version='1.0',
+		version='3.0',
 		description='thematch_cpu',
 		url='https://github.com/ExpertOfAI/thematch',
 		author='ExpertOfAI1',
